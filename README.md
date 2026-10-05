@@ -1,4 +1,4 @@
-# S&P 500 Next-Day Realized Volatility Prediction
+# S&P 500 Next-Day Volatility Prediction
 
 A machine learning approach to forecasting next-day realized volatility of the **SPDR S&P 500 ETF (SPY)** using daily market data, macroeconomic indicators, technical indicators, and volatility features.
 
